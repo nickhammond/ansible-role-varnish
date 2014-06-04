@@ -1,5 +1,7 @@
 # Ansible Role: Varnish
 
+[![Build Status](https://travis-ci.org/nickhammond/ansible-role-varnish.svg)](https://travis-ci.org/nickhammond/ansible-role-varnish)
+
 An Ansible Role that installs Varnish on RHEL/CentOS 6.x.
 
 ## Requirements
